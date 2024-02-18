@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cherry
-- 👀 I’m interested in reading manhwas
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Robotics 2
 - 💞️ I’m looking to collaborate on making projects
 - 📫 How to reach me cherrydelcastillo83@gmail.com
