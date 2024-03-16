@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cherry M. De Castillo
+- 👋 Hi, I’m Cherry M. Del Castillo
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Robotics 2
 - 💞️ I’m looking to collaborate on making projects
