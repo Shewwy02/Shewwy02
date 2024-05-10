@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cherry M. Del Castillo
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Robotics 2
-- 💞️ I’m looking to collaborate on making projects 
+- 💞️ I’m looking to collaborate on making projects
 - 📫 How to reach me cherrydelcastillo83@gmail.com
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I like cats and sweets
