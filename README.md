@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Robotics 2 
 - 💞️ I’m looking to collaborate on making projects 
 - 📫 How to reach me cherrydelcastillo83@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her 
 - ⚡ Fun fact: I like cats and sweets 
 
 <!---
