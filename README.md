@@ -7,8 +7,6 @@
 ###
 
 <h2 align="left">About Me🧩</h2>
-###
-
 <p align="left">✨ A Mechatronics Engineering Student<br>📚 I'm currently learning Machine Learning and Programming<br>🎯 Goals: To finish College<br>🎲 Fun fact: Zzzzzz</p>
 
 ###
